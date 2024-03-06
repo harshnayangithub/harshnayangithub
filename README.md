@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Harsh Nayan.
 - 👨🏻‍💻 I'm second year undergraduate student majoring in computer science at Army Institute of Technology, Pune.
 - 👀 I’m interested in Open Source Contribution and solving real-life problems through my projects.
-- 🌱 I’m currently learning ReactJS and NodeJS.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.nayan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-nayan) 
