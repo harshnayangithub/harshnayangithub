@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Harsh Nayan.
-- 👨🏻‍💻 I'm second year undergraduate student majoring in computer science at Army Institute of Technology, Pune.
+- 👨🏻‍💻I am a second-year computer science student at the Army Institute of Technology, Pune.
 - 👀 I’m interested in Open Source Contribution and solving real-life problems through my projects.
 - 👨🏻‍💻 I'm DevOps Enthusiast 
 ## 🌐 Socials:
