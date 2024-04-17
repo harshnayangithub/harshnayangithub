@@ -1,8 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m Harsh Nayan.
-- 👨🏻‍💻I am a second-year computer science student at the Army Institute of Technology, Pune.
-- 👀 I’m interested in Open Source Contribution and solving real-life problems through my projects.
-- 👨🏻‍💻 I'm DevOps Enthusiast 
+- 👨🏻‍💻 I'm a second-year computer science student at the Army Institute of Technology, Pune.
+- 👀 I’m interested in Open Source and solving real-life problems through my projects.
+- 👨🏻‍💻 I'm DevOps Enthusiast.
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.nayan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-nayan) 
 
