@@ -22,7 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=harshnayangithub&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshnayangithub&theme=react&hide_border=true&fire=DD2727" alt="harshnayangithub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshnayangithub&theme=react&hide_border=true&fire=DD2727" alt=" harshnayangithub " /></p>
 </div>
 <hr/>
 <div align="center">
