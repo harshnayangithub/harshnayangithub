@@ -47,11 +47,8 @@ const harsh = {
 ```
 
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif">
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshnayangithub&show_icons=true&locale=en&layout=compact" alt="harshnayangithub" /></p>
-
+<p bg-colour-black><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshnayangithub&show_icons=true&locale=en&layout=compact" alt="harshnayangithub" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshnayangithub&show_icons=true&locale=en" alt="harshnayangithub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshnayangithub&" alt="harshnayangithub" /></p>
