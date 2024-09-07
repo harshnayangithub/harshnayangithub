@@ -35,7 +35,7 @@ const harsh = {
             js: ["Node", "Express"],
         },
         frontEnd:{
-            js: ["React"],
+            js: ["React","Angular"],
         },
         
         databases: ["mongo", "MySql"],
