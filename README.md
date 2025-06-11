@@ -41,6 +41,7 @@ const harsh = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Open-AI"]
     },
+
     architecture: ["Serverless Architecture", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
